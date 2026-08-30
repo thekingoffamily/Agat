@@ -15,3 +15,10 @@ flutter build apk --release
 ```
 
 Иконка: `branding/logo-512.png` (512×512, без прозрачности).
+
+## Лицензия
+
+Брать и использовать можно, в том числе в своих приложениях.  
+Обязательна видимая ссылка на репозиторий: https://github.com/thekingoffamily/Agat  
+Текст: [LICENSE](LICENSE)
+
